@@ -1,3 +1,5 @@
+<img src="images/Github design.jpg"></img>
+
 ### A little more about me...
 I'm an Undergrad Student🎓 @HelwanUniversity studying computer science. I'm a Tech Enthusiast 💻 😃 who is passionate and have eager to learn and work with new technologies. I am motivated to create impactful projects and products that inspire and make a difference.
 
